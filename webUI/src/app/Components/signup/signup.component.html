@@ -1,0 +1,31 @@
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+crossorigin="anonymous" referrerpolicy="no-referrer" />
+<body>
+  <div *ngIf="errormsg" class="error-msg" style="color: brown;">{{ errormsg }}</div>
+<div class="container">
+
+                <form (ngSubmit)="submitForm()" [formGroup]="signUpForm">
+                <h1>Create Account</h1>
+              <input type="text" id="fname"  name="firstName" placeholder="FirstName" formControlName="firstName"  required/>
+              <span *ngIf="firstName && firstName.invalid  && firstName.touched" style="color: red;">First name must be at least 2 characters long and contain only letters.</span>
+
+              <input type="text" id="lname"  name="lastName" placeholder="LastName" formControlName="lastName"  required/>
+              <span *ngIf="lastName && lastName.invalid  && lastName.touched" style="color: red;">Last name must be at least 2 characters long and contain only letters.</span>
+
+              <input type="tel" id="phone"  name="phoneNumber" placeholder="PhoneNumber" formControlName="phoneNumber" required/>
+              <span *ngIf="phoneNumber && phoneNumber.invalid  && phoneNumber.touched" style="color: red;">Phone number must be 10 digits long</span>
+
+              <input type="email" id="email"  name="email" placeholder="Email" formControlName="email" required/>
+              <span *ngIf="email && email.invalid  && email.touched" style="color: red;">Email Address is not Correct</span>
+
+              <input type="password" id="password"  name="password" placeholder="Password" formControlName="password" required/>
+              <span *ngIf="password && password.invalid  && password.touched" style="color: red;">Password must contain at least one uppercase letter, one lowercase letter, one digit, one special character, and be at least 6 characters long.</span>
+
+             <input type="password" id="cpassword"  name="confirmPassword" placeholder="ConfirmPassword" formControlName="confirmPassword" required/>
+             <div style="color: red;" *ngIf="signUpForm.controls['password'].value!==signUpForm.controls['confirmPassword'].value">Password do not match</div>
+             <button [disabled]="signUpForm.invalid" [ngClass]="{'disabled-button': signUpForm.invalid, 'enabled-button': !signUpForm.invalid}">Sign Up</button>
+            </form>
+          </div>
+        </body>

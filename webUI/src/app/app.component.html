@@ -1,0 +1,79 @@
+<!-- app.component.html -->
+<link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
+<ng-container>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<a class="navbar-brand" routerLink="/">EasyShop</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav">
+  <li class="nav-item">
+    <a class="nav-link" routerLink="/">Home</a>
+  </li>
+
+  <li class="nav-item" *ngIf="!isLoggedIn">
+    <a class="nav-link" routerLink="/login">Login</a>
+  </li>
+  <li class="nav-item" *ngIf="isLoggedIn">
+    <div class="dropdown">
+      <a class="nav-link" id="navbarDropdown" role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        <i class="ri-account-circle-fill"></i>
+      </a>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <a class="dropdown-item" routerLink="/profile">
+          <i class="ri-emotion-laugh-line"></i>
+          Hello, {{userEmail}}
+        </a>
+        <a class="dropdown-item" routerLink="viewOrder">
+          <i class="ri-shopping-bag-4-fill"></i>
+          Orders
+        </a>
+        <a class="dropdown-item" routerLink="/profile">
+          <i class="ri-user-fill"></i>
+          Edit Profile
+        </a>
+        <a class="dropdown-item" routerLink="/privacy">
+          <i class="ri-settings-5-fill"></i>
+          Settings and Privacy
+        </a>
+        <a class="dropdown-item" routerLink="/support">
+          <i class="ri-hand-heart-fill"></i>
+          Help and Support
+        </a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" (click)="logout()">
+          <i class="ri-logout-box-fill"></i>
+          Logout
+        </a>
+      </div>
+    </div>
+  </li>
+  <li class="nav-item" *ngIf="isLoggedIn">
+    <a class="nav-link" [routerLink]="['/cart-items']" [queryParams]="{ items: stringifyCartItems() }">
+      <i class="ri-shopping-cart-fill"><div style="font-size: 7px;" class="badge btn btn-danger">{{cartValue}}</div></i>
+    </a>
+  </li>
+  <li class="nav-item" *ngIf="isLoggedIn">
+    <a class="nav-link" (click)="logout()">Logout</a>
+  </li>
+</ul>
+
+<form (ngSubmit)="searchProducts(searchText.value)">
+  <div class="search-container">
+    <input type="text" placeholder="Search for products..." #searchText>
+    <button type="submit"><i class="ri-search-2-line"></i></button>
+  </div>
+</form>
+
+</div>
+</nav>
+</ng-container>
+
+<router-outlet></router-outlet>

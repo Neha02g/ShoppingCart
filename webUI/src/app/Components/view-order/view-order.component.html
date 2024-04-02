@@ -1,0 +1,50 @@
+
+<section class="h-100 gradient-custom">
+
+  <div class="container py-5 h-100" >
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-lg-10 col-xl-8">
+        <div *ngIf="orders.length === 0" class="row border-top border-bottom">
+
+          <h5 class="text-muted mb-0">No Previous Orders</h5>
+      </div>
+        <div class="card" style="border-radius: 10px;"  *ngIf="orders.length != 0">
+          <div class="card-header px-4 py-5" >
+            <h5 class="text-muted mb-0">Thanks for your Order</h5>
+          </div>
+          <div class="card-body p-4">
+
+            <div class="card shadow-0 border mb-4" *ngFor="let order of orders">
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-md-2">
+                    <img src={{order.orderItems.productImage}}
+                      class="img-fluid" alt={{order.orderItems.productName}}>
+                  </div>
+                  <div class="col-md-2 text-center d-flex justify-content-center align-items-center">
+                    <p class="text-muted mb-0">{{order.orderItems.productName}}</p>
+                  </div>
+                  <div class="col-md-2 text-center d-flex justify-content-center align-items-center">
+                    <p class="text-muted mb-0 small">Qty: {{order.orderItems.quantity}}</p>
+                  </div>
+                  <div class="col-md-2 text-center d-flex justify-content-center align-items-center">
+                    <p class="text-muted mb-0 small">Rs.{{order.orderTotal}}</p>
+                  </div>
+                  <div class="col-md-2 text-center d-flex justify-content-center align-items-center">
+                    <p class="text-muted mb-0 small">OrderId : {{order.orderId}}</p>
+                  </div>
+                  <div class="col-md-2 text-center d-flex justify-content-center align-items-center">
+                    <p class="text-muted mb-0 small">Date: {{ order.orderDate | date:'shortDate' }}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+   
+      <div class="back-to-shop"><a href="#" style="text-decoration: none;">&leftarrow;Back to shop</a></div>
+    </div>
+  </div>
+</section>
+

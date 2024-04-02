@@ -1,0 +1,127 @@
+/* app.component.css */
+/* profile */
+/* .dropdown:hover .dropdown-menu {
+  display: block;
+  background: rgba(30, 21, 21, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  /*
+   background: linear-gradient(142.18deg, #7491b1 0%, #c47b9a 98.85%);
+    backdrop-filter: blur(5px); 
+} */
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  z-index: 1000;
+  background-color: #fff;
+  min-width: 200px;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-item {
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+  color: #333;
+}
+
+.dropdown-item i {
+  margin-right: 8px;
+}
+
+.dropdown-divider {
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
+  margin: 4px 0;
+}
+.navbar-nav .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu {
+  margin-top: 0;
+}
+
+.dropdown-item:hover {
+  background-color: #8eb3d8;
+}
+
+form{
+  width: 60%;
+}
+/* Style the search container */
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  width: 80%; /* Adjust width as needed */
+  margin: 0 auto; /* Center horizontally */
+}
+
+/* Style the input field */
+.search-container input[type=text] {
+  flex: 1; /* Take remaining space */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* Style the search button */
+.search-container button {
+  padding: 10px;
+  background-color: #535382;
+  border: none;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+
+/* Change the color of the search icon */
+.search-container button i {
+  color: #fff;
+}
+
+
+/* NavBAr */
+/* Navbar */
+.navbar {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+}
+
+.navbar-nav {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  margin-left: 20px;
+}
+
+.nav-link {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  margin-right: 20px; /* Add margin to the right */
+}
+
+.nav-link:hover {
+  color: rgb(145, 56, 145);
+}
+
+

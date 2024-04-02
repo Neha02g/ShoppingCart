@@ -1,0 +1,99 @@
+<div *ngIf="cartItems">
+<div class="card">
+  <div class="row">
+      <div class="col-md-8 cart">
+          <div class="title">
+              <div class="row">
+                  <div class="col"><h4><b>Shopping Cart</b></h4></div>
+                  <div class="col align-self-center text-right text-muted"></div>
+              </div>
+          </div>
+          <div class="row border-top border-bottom" *ngFor="let item of cartItems" >
+              <div class="row main align-items-center">
+                  <div class="col-2"><img class="img-fluid" src="{{ item.product.productImage }}"></div>
+                  <div class="col">
+                      <div class="row text-muted">{{ item.product.productName }}</div>
+                      <div class="row">{{ item.product.description}}</div>
+                  </div>
+                  <div class="col">
+                      <a routerLink="/cart-items" style="text-decoration: none;" (click)="decreseQuantity(item.product.productID)">-</a>
+                      <a class="border" style="text-decoration: none;">{{ item.quantity }}</a>
+                      <a  routerLink="/cart-items" style="text-decoration: none;" (click)="updateQuantity(item.product.productID)">+</a>
+                  </div>
+                  <div class="col">Rs. {{ (item.product.price * item.quantity) .toFixed(2) }} </div>
+              </div>
+          </div>
+
+          <div class="back-to-shop"><a routerLink="/search" style="text-decoration: none;">&leftarrow;Back to shop</a></div>
+      </div>
+      <div class="col-md-4 summary">
+          <div *ngIf="cartSummary"><h5><b>Cart Summary</b></h5></div>
+          <hr>
+          <div class="row">
+              <div class="col" style="padding-left:0;">Items: {{cartSummary?.totalItems }}</div>
+              <div class="col text-right">Rs. {{cartSummary.totalPrice}}</div>
+          </div>
+          <form>
+              <p>SHIPPING</p>
+              <select><option class="text-muted">Standard-Delivery- <i style="color: green;">FREE</i></option></select>
+              <p>COUPON CODE</p>
+              <input id="code" value="DEL20PER" readonly>
+          </form>
+          <div class="row" style="border-top: 1px solid rgba(0,0,0,.1); padding: 2vh 0;">
+              <div class="col">TOTAL PRICE</div>
+              <div class="col text-right">Rs.{{(cartSummary.totalPrice-(cartSummary.totalPrice*0.20)).toFixed(2)}}</div>
+          </div>
+          <button class="btn" (click)="order()">CHECKOUT</button>
+      </div>
+  </div>
+</div>
+</div>
+
+<div *ngIf="!cartItems" class="card row col-md-8 cart">
+  <div class="col"><h3><b>OOps! Cart is Empty</b></h3></div>
+  <div class="back-to-shop"><a routerLink="/search" style="text-decoration: none;">&leftarrow;Back to shop</a></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<div *ngIf="cartItems">
+<header>
+  <h1>Shopping Cart</h1>
+</header>
+
+  <section class="cart-items">
+    <h2>Your Cart</h2>
+    <div class="cart-item" *ngFor="let item of cartItems">
+      <img src="{{ item.product.productImage }}" alt="{{ item.product.productName }}">
+      <div class="item-details">
+        <h3>{{ item.product.productName }}</h3>
+        <p>{{ item.product.description }}</p>
+        <p>Price: Rs. {{ item.product.price }}</p>
+        <p>Quantity: {{ item.quantity }}</p>
+      </div>
+    </div>
+  </section>
+  <section class="price-details">
+    <h2>Price Details</h2>
+    <div>
+      <p>Total MRP of Cart:  currency</p>
+    You can add more price details here
+    </div>
+    <button class="place-order-btn">Place Order</button>
+  </section>
+</div>
+  -->

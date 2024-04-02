@@ -1,0 +1,98 @@
+<div class="container bg-light d-md-flex align-items-center">
+  <div class="card box1 shadow-sm p-md-5 p-md-5 p-4">
+  <div class="card box2 shadow-sm">
+    <div class="d-flex align-items-center justify-content-between p-md-5 p-4">
+      <span class="h5 fw-bold m-0">Payment methods</span>
+      <div class="btn btn-primary bar">
+        <span class="fas fa-bars"></span>
+      </div>
+    </div>
+    <ul class="nav nav-tabs mb-3 px-md-4 px-2">
+      <li class="nav-item">
+        <a class="nav-link px-2 active" aria-current="page"  (click)="selectPaymentMethod('card')">Card Payment</a>
+      </li>
+      <li class="nav-item ms-auto">
+        <a class="nav-link px-2" (click)="selectPaymentMethod('cod')">Cash On Delivery</a>
+
+      </li>
+    </ul>
+    <div class="px-md-5 px-4 mb-4 d-flex align-items-center">
+    </div>
+    <form [formGroup]="form" *ngIf="selectedPaymentMethod === 'card'">
+      <div class="row">
+        <div class="col-12">
+          <div class="d-flex flex-column px-md-5 px-4 mb-4">
+            <span>Card Number</span>
+            <div class="inputWithIcon">
+              <input class="form-control" type="text"
+              formControlName="cardNumber" placeholder="0000 0000 0000 0000" required>
+              <span>
+                <img src="https://www.freepnglogos.com/uploads/mastercard-png/mastercard-logo-logok-15.png" alt="">
+              </span>
+            </div>
+            <div *ngIf="form.get('cardNumber')?.invalid && (form.get('cardNumber')?.dirty || form.get('cardNumber')?.touched)"
+         class="error-msg" style="color: red;">
+      <div *ngIf="form.get('cardNumber')?.errors?.['required']">Card number is required.</div>
+      <div *ngIf="form.get('cardNumber')?.errors?.['pattern']">Card number must be 16 digits.</div>
+    </div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="d-flex flex-column ps-md-5 px-md-0 px-4 mb-4">
+            <span>Expiration<span class="ps-1">Date</span></span>
+            <div class="inputWithIcon">
+              <input type="text" class="form-control" formControlName="expirationDate" required placeholder="MM/YY">
+              <span class="fas fa-calendar-alt"></span>
+            </div>
+            <div *ngIf="form.get('expirationDate')?.invalid && (form.get('expirationDate')?.dirty || form.get('expirationDate')?.touched)"
+    class="error-msg" style="color: red;">
+ <div *ngIf="form.get('expirationDate')?.errors?.['required']">Expiration date is required.</div>
+ <div *ngIf="form.get('expirationDate')?.errors?.['pattern']">Expiration date must be in MM/YY format.</div>
+</div>
+          </div>
+        </div>
+
+
+        <div class="col-md-6"> <div class="d-flex flex-column pe-md-5 px-md-0 px-4 mb-4">
+          <span>Code CVV</span>
+          <div class="inputWithIcon">
+            <input type="password" class="form-control" formControlName="cvv" placeholder="***" required>
+             <span class="fas fa-lock">
+          </span>
+         </div>
+         <!-- Error Messages -->
+    <div *ngIf="form.get('cvv')?.invalid && (form.get('cvv')?.dirty || form.get('cvv')?.touched)"
+    class="error-msg" style="color: red;">
+ <div *ngIf="form.get('cvv')?.errors?.['required']">CVV is required.</div>
+ <div *ngIf="form.get('cvv')?.errors?.['pattern']">CVV must be 3 or 4 digits.</div>
+</div>
+         </div>
+        </div>
+
+        <div class="col-12">
+          <div class="d-flex flex-column px-md-5 px-4 mb-4">
+            <span>Name</span>
+            <div class="inputWithIcon">
+              <input class="form-control text-uppercase" formControlName="nameOnCard" type="text" placeholder="Name on card">
+              <span class="far fa-user"></span>
+             </div>
+               <!-- Error Messages -->
+    <div *ngIf="form.get('nameOnCard')?.invalid && (form.get('nameOnCard')?.dirty || form.get('nameOnCard')?.touched)"
+    class="error-msg" style="color: red;">
+ <div *ngIf="form.get('nameOnCard')?.errors?.['required']">Name on card is required.</div>
+ <div *ngIf="form.get('nameOnCard')?.errors?.['pattern']">Name on card must contain only alphabets and have a minimum length of 2 characters.</div>
+</div>
+            </div>
+           </div>
+
+              <div class="col-12 px-md-5 px-4 mt-3">
+               <div class="btn btn-primary w-100" style="font-weight: bold;" (click)="completePayment()">Pay</div>
+             </div>
+              </div>
+              </form>
+              <div>
+                <div  *ngIf="selectedPaymentMethod === 'cod'" (click)="completePayment()" class="btn btn-primary w-100" style="font-weight: bold;">Place Order</div>
+              </div>
+             </div>
+

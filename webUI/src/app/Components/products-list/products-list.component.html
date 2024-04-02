@@ -1,0 +1,36 @@
+
+
+
+
+<div class="row-g-0">
+  <div *ngIf="errormsg" class="error-msg" style="color: brown;">{{ errormsg }}</div>
+<div class="collection-list content mt-4 row gx-0 gy-3">
+    <div class="col-md-6 col-lg-4 col-xl-3 p-2" *ngFor="let product of products">
+      <div class="collection-img m-3 mr-2 position-relative overflow-hidden">
+       <img src ="{{ product.productImage }}" alg="product-image" class="w-100">
+    </div>
+    <div class="text-center">
+      <div class="rating mt-3">
+        <span class="text-primary"><i class="ri-star-fill"></i></span>
+        <span class="text-primary"><i class="ri-star-fill"></i></span>
+        <span class="text-primary"><i class="ri-star-fill"></i></span>
+        <span class="text-primary"><i class="ri-star-fill"></i></span>
+        <span class="text-primary"><i class="ri-star-fill"></i></span>
+      </div>
+      <p class="text-capitalize my-1" style="font-weight: bold;">{{product.productName}}</p>
+      <div><span class="fw-bold">Rs. {{product.price}}</span></div>
+          <!-- Conditionally show Add to Cart button -->
+    <button *ngIf="product.quantityAvailable > 0" class="addCart" (click)="addtocart(product.productID)">Add To Cart</button>
+    <div *ngIf="showMessage" class="notification"> Product Added to the cart</div>
+    <p *ngIf="product.quantityAvailable === 0" class="out-of-stock-msg" style="color: red;">Out of Stock</p>
+
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+

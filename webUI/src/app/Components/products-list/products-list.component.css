@@ -1,0 +1,97 @@
+
+
+.sidebar {
+  width: 200px; /* Set sidebar width */
+  background-color: #f4f4f4; /* Background color */
+  padding: 20px; /* Add padding */
+  height: 100%;
+  position: sticky;
+
+}
+
+.sidebar ul {
+  list-style: none; /* Remove default list styles */
+  padding: 0; /* Remove default padding */
+}
+
+.sidebar li {
+  margin-bottom: 10px; /* Add spacing between list items */
+  font-family: Arial, sans-serif; /* Set font family */
+}
+
+.sidebar i {
+  font-weight: bold; /* Make first-level items bold */
+}
+
+.sidebar ul ul {
+  margin-left: 20px; /* Indent nested lists */
+}
+
+.sidebar a {
+  text-decoration: none; /* Remove default underline */
+  color: #333; /* Text color */
+}
+
+.sidebar a:hover {
+  color: #007bff; /* Change text color on hover */
+}
+
+/* MainContent */
+
+/* .container {
+  display: flex;
+  padding-left: 0;
+  margin-inline-start: 0;
+  position: absolute;
+
+} */
+
+
+/* .content {
+  flex: 1;
+  background-color: #fff;
+  padding: 40px;
+  margin-left: 5px;
+
+} */
+img{
+  width:40px;
+  height: 300px;
+}
+
+.collection-img span
+{
+  top: 20px;
+  right: 20px;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  background-color: gray;
+  /* -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+      transform: scale(1.2);*/
+}
+
+.text-primary{
+  color: goldenrod!important;
+}
+button{
+  border-radius: 20px;
+  background-color: gray;
+  color: whitesmoke;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.notification {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background-color: green;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  z-index: 9999; /* Ensure it's on top of other elements */
+}
+
+

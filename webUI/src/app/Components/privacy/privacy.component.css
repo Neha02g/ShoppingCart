@@ -1,0 +1,35 @@
+.privacy-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px black solid;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .privacy-container h4 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .privacy-container p {
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .privacy-container ul {
+    list-style-type: none;
+    margin-top: 15px;
+  }
+  
+  .privacy-container ul li {
+    margin-bottom: 15px;
+  }
+  
+  .privacy-container ul li h4 {
+    color: #007bff;
+    margin-bottom: 5px;
+  }
+  
+  .privacy-container ul li p {
+    color: #777;
+  }
+  

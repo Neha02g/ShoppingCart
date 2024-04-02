@@ -1,0 +1,60 @@
+<form (ngSubmit)="onSubmit()" [formGroup]="getfromForm">
+<div class="container">
+  <h4>Shipping</h4>
+  <p>Please enter your shipping details.</p>
+  <hr />
+
+  <div class="form">
+
+  <div class="fields fields--2">
+    <label class="field">
+      <span class="field__label" for="firstname">First name</span>
+      <input class="field__input" type="text" id="firstname"  formControlName="fname" placeholder="John" required/>
+    </label>
+      <span style="color: red;" *ngIf="fname && fname.invalid && fname.touched">Minimum 2 characters is Required</span>
+
+    <label class="field">
+      <span class="field__label" for="lastname">Last name</span>
+      <input class="field__input" type="text" id="lastname" formControlName="lname" placeholder="Doe" required/>
+    </label>
+      <span style="color: red;" *ngIf="lname && lname.invalid && lname.touched">Minimum 2 characters is Required</span>
+
+  </div>
+  <label class="field">
+    <span class="field__label" for="address">Address</span>
+    <input class="field__input" type="text" formControlName="address"  id="address" required/>
+      </label>
+    <span style="color: red;" *ngIf="address && address.invalid && address.touched">Minimum 2 characters is Required</span>
+
+  <label class="field">
+    <span class="field__label" for="pnumber">Phone Number</span>
+    <input class="field__input" type="text" id="pnumber"  formControlName="phonenumber" required/>
+      </label>
+    <span style="color: red;" *ngIf="phonenumber && phonenumber.invalid && phonenumber.touched">Must be 10 digits</span>
+
+  <div class="fields fields--3">
+    <label class="field">
+      <span class="field__label" for="zipcode">Zip code</span>
+      <input class="field__input" type="text" formControlName="zipcode" id="zipcode" required/>
+      </label>
+      <span style="color: red;" *ngIf="zipcode && zipcode.invalid && zipcode.touched">Must be 6 digits</span>
+
+    <label class="field">
+      <span class="field__label" for="city">City</span>
+      <input class="field__input" type="text" id="city" formControlName="city" required/>
+      </label>
+      <span style="color: red;" *ngIf="city && city.invalid && city.touched">Minimum 3 characters is Required</span>
+
+    <label class="field">
+      <span class="field__label" for="state">State</span>
+      <input class="field__input" type="text" id="state" formControlName="state" required/>
+      </label>
+      <span style="color: red;" *ngIf="state && state.invalid && state.touched ">Minimum 2 characters is Required</span>
+
+  </div>
+  </div>
+  <hr>
+  <button class="button"  [disabled]="getfromForm.invalid" [ngClass]="{'disabled-button': getfromForm.invalid, 'enabled-button': !getfromForm.invalid}">Continue</button>
+  <br><br><br>
+</div>
+<form>

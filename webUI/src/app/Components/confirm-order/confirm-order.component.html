@@ -1,0 +1,54 @@
+    <body>
+    <div class="contanier">
+        <div class="main">
+          <div class="road"  >
+           <ul>
+               <li></li>
+               <li></li>
+               <li></li>
+               <li></li>
+               <li></li>
+               <li></li>
+               <li></li>
+               <li></li>
+               <li></li>
+               <li></li>
+             <li></li>
+           </ul>
+           <div class="bus">
+           <div class="back">
+               <div class="back1door"></div>
+               <div class="back2door"></div>
+               <div class="join"></div>
+           </div>
+               <div class="front">
+                   <div class="black"></div>
+                   <div class="light1"></div>
+               <div class="light2"></div>
+               </div>
+               </div>
+            <div class="gift"></div>
+           </div>
+       </div>
+
+    </div>
+    <div class="order-placed" style="display: none; color: white;">
+      Order Placed
+    </div>
+
+    <script>
+      // Wait for the truck animation to complete
+      const truckAnimationDuration = 9000; // 9 seconds
+      const orderPlacedDelay = 10000; // 10 seconds (adjust as needed)
+
+      // Wait for the document to be fully loaded
+      document.addEventListener('DOMContentLoaded', function() {
+        // Show the "Order Placed" text after the truck animation completes
+        setTimeout(() => {
+          // Show the "Order Placed" text
+          document.querySelector('.order-placed').style.display = 'block';
+        }, truckAnimationDuration + orderPlacedDelay);
+      });
+    </script>
+    </body>
+
