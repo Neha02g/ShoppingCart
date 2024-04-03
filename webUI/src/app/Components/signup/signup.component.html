@@ -7,7 +7,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div class="container">
 
                 <form (ngSubmit)="submitForm()" [formGroup]="signUpForm">
-                <h1>Create Account</h1>
+                <h3 style="font-weight: bold;">Create Account</h3>
               <input type="text" id="fname"  name="firstName" placeholder="FirstName" formControlName="firstName"  required/>
               <span *ngIf="firstName && firstName.invalid  && firstName.touched" style="color: red;">First name must be at least 2 characters long and contain only letters.</span>
 

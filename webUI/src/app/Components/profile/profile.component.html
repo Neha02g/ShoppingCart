@@ -15,17 +15,20 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
         <form *ngIf="isEditing" (ngSubmit)="updateProfile()" class="form-container">
           <div class="form-group">
             <label for="firstName">First Name:</label>
-            <input type="text" id="firstName" name="firstName" [(ngModel)]="profileData.firstName" class="form-control">
+            <input type="text" #firstNameInput="ngModel" id="firstName" name="firstName" [(ngModel)]="profileData.firstName" class="form-control" pattern="^[a-z A-Z]{2,}$">
+            <p *ngIf="firstNameInput.invalid && (firstNameInput.dirty || firstNameInput.touched)" style="color: red;">First Name should be 2 characters long</p>
           </div>
 
           <div class="form-group">
             <label for="lastName">Last Name:</label>
-            <input type="text" id="lastName" name="lastName" [(ngModel)]="profileData.lastName" class="form-control">
+            <input type="text"  #lastNameInput="ngModel" id="lastName" name="lastName" [(ngModel)]="profileData.lastName" class="form-control" pattern="^[a-z A-Z]{2,}$">
+            <p *ngIf="lastNameInput.invalid && (lastNameInput.dirty || lastNameInput.touched)" style="color: red;">Last Name should be 2 characters long</p>
           </div>
 
           <div class="form-group">
             <label for="phoneNumber">Phone Number:</label>
-            <input type="tel" id="phoneNumber" name="phoneNumber" [(ngModel)]="profileData.phoneNumber" class="form-control">
+            <input type="tel" #number="ngModel" id="phoneNumber" name="phoneNumber" [(ngModel)]="profileData.phoneNumber" class="form-control" pattern="^[0-9]{10}$">
+            <p *ngIf="number.invalid && (number.dirty || number.touched)" style="color: red;">Phone Number must be of 10 digits</p>
           </div>
           <div class="d-flex justify-content-between">
           <button type="submit" class="btn btn-primary">Update</button>

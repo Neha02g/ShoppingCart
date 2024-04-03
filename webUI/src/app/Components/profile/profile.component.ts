@@ -50,6 +50,9 @@ export class ProfileComponent {
     error:(error: any) => {
       console.error('Error:', error);
       this.errorMessage = error.error;
+      setTimeout(() => {
+        this.errorMessage = '';
+      }, 2000); // Display the message for 3 seconds
     }
   });
   }

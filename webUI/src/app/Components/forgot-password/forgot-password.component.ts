@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { ChangePasswordModel } from 'src/Models/changePasswordModel';
 import { AuthService } from 'src/Service/auth.service';
 import { ForgotPasswordService } from 'src/Service/forgot-password.service';
+import { Route, Router } from '@angular/router';
 
 @Component({
   selector: 'app-forgot-password',
@@ -23,7 +24,7 @@ changePasswordData: ChangePasswordModel = {
   NewPassword: '',
   ConfirmPassword: ''
 };
-constructor(private service:ForgotPasswordService){}
+constructor(private service:ForgotPasswordService,private route:Router){}
 
 sendOTP() {
   if (this.email) {
@@ -73,10 +74,14 @@ verifyOTP() {
   }
 }
 changePassword() {
-  if (this.changePasswordData.Email && this.changePasswordData.NewPassword === this.changePasswordData.ConfirmPassword) {
+  if (this.changePasswordData.Email && this.changePasswordData.Email==this.emailForReset &&this.changePasswordData.NewPassword === this.changePasswordData.ConfirmPassword) {
     this.service.updatePassword(this.changePasswordData).subscribe({
      next: () => {
         this.success="Password Reset SuccessFully";
+        setTimeout(() => {
+          this.success = '';
+          this.route.navigate(['/home']);
+        }, 1000);
       },
       error:(error) => {
         this.errormsg = 'An error occurred while changing password.';

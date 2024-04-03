@@ -1,20 +1,11 @@
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
-integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
-crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <body>
  
     <div class="container" id="container">
         <div class="form-container log-in-container">
           <form [formGroup]="loginForm"  (ngSubmit)="customerLogin()" >
-            <h1>Log in</h1>
-            <div class="social-container">
-              <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
-              <a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
-              <a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
-            </div>
-            <span>or use your account</span>
+            <h3 style="font-weight: bolder;">Log in</h3>
 
             <!-- Email Input -->
             <input type="email" name="email" required placeholder="Email" formControlName="Email">

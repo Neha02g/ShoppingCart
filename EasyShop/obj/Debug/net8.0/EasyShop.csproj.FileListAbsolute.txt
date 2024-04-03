@@ -1,0 +1,594 @@
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\appsettings.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\EasyShop.exe
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\EasyShop.deps.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\EasyShop.runtimeconfig.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\EasyShop.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\EasyShop.pdb
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.csproj.AssemblyReference.cache
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.AssemblyInfoInputs.cache
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.AssemblyInfo.cs
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.csproj.CoreCompileInputs.cache
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.EasyShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.build.EasyShop.props
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EasyShop.props
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EasyShop.props
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\scopedcss\bundle\EasyShop.styles.css
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.csproj.Up2Date
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\refint\EasyShop.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.pdb
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.genruntimeconfig.cache
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping\EasyShop\obj\Debug\net8.0\ref\EasyShop.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\EasyShop.csproj.AssemblyReference.cache
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\EasyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\EasyShop.AssemblyInfoInputs.cache
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\EasyShop.AssemblyInfo.cs
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\EasyShop.csproj.CoreCompileInputs.cache
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\EasyShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\EasyShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\EasyShop.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\refint\EasyShop.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\EasyShop.pdb
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\appsettings.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\EasyShop.exe
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\EasyShop.deps.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\EasyShop.runtimeconfig.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\EasyShop.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\EasyShop.pdb
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.EasyShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.build.EasyShop.props
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EasyShop.props
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EasyShop.props
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\scopedcss\bundle\EasyShop.styles.css
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\EasyShop.csproj.Up2Date
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\EasyShop.genruntimeconfig.cache
+C:\Users\Saransh Tiwari\OneDrive\Desktop\onlineShopping - Copy\EasyShop\obj\Debug\net8.0\ref\EasyShop.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Saransh Tiwari\OneDrive\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\appsettings.json
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\EasyShop.exe
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\EasyShop.deps.json
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\EasyShop.runtimeconfig.json
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\EasyShop.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\EasyShop.pdb
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Humanizer.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.csproj.AssemblyReference.cache
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.AssemblyInfoInputs.cache
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.AssemblyInfo.cs
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.csproj.CoreCompileInputs.cache
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.EasyShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.build.EasyShop.props
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EasyShop.props
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EasyShop.props
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\scopedcss\bundle\EasyShop.styles.css
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.csproj.Up2Date
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\refint\EasyShop.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.pdb
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\EasyShop.genruntimeconfig.cache
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\obj\Debug\net8.0\ref\EasyShop.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\MailKit.dll
+C:\Users\PRANJIGU\Desktop\OnlineShopping\EasyShop\bin\Debug\net8.0\MimeKit.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\appsettings.json
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\EasyShop.exe
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\EasyShop.deps.json
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\EasyShop.runtimeconfig.json
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\EasyShop.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\EasyShop.pdb
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Humanizer.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\MailKit.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\MimeKit.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\EasyShop.csproj.AssemblyReference.cache
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\EasyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\EasyShop.AssemblyInfoInputs.cache
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\EasyShop.AssemblyInfo.cs
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\EasyShop.csproj.CoreCompileInputs.cache
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\EasyShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\EasyShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\staticwebassets\msbuild.EasyShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\staticwebassets\msbuild.build.EasyShop.props
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EasyShop.props
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EasyShop.props
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\scopedcss\bundle\EasyShop.styles.css
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\EasyShop.csproj.Up2Date
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\EasyShop.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\refint\EasyShop.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\EasyShop.pdb
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\EasyShop.genruntimeconfig.cache
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\obj\Debug\net8.0\ref\EasyShop.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\PRANJIGU\Desktop\Shopping\easyshop\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
